@@ -1,6 +1,7 @@
 # 書籍
 
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory (PDF, arxiv)](https://arxiv.org/pdf/2310.20360)
+    * https://github.com/introdeeplearning/book/tree/main/code
 
 * https://x.com/GitHub_Daily/status/1945634560965742940
 
