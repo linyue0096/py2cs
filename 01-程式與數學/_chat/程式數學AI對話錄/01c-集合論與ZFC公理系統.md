@@ -1,5 +1,7 @@
 # 集合論與ZFC公理系統
 
+* [AI Studio 原始對話](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221SrbPNrPjYup8vas1Xq3NH1HPQqx6JMDd%22%5D,%22action%22:%22open%22,%22userId%22:%22111605452542833299008%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
 ## Q: 邏輯學和資訊科學有何關係？
 
 哈囉！很高興認識你，歡迎正式踏入資訊科學 (Computer Science) 這個廣闊又迷人的世界。我是你的導師，接下來會一步步帶你了解這個領域的奧秘。
