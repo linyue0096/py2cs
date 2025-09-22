@@ -1,7 +1,7 @@
 h = 0.00001
 
 def df(f, x):
-    return (f(x+h)-f(x))/h 
+    return (f(x+h)-f(x))/h
 
 def integral(f, a, b):
     x = a
